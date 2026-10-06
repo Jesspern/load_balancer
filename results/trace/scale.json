@@ -1,0 +1,11 @@
+{
+  "K": 29.411764705882355,
+  "train_p99_rps_5s": 13.6,
+  "target_p99": 400.0,
+  "window_s": 1800,
+  "smooth_s": 5,
+  "n_windows": 672,
+  "n_train": 403,
+  "n_val": 134,
+  "n_test": 135
+}

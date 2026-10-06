@@ -1,0 +1,6 @@
+{
+  "example_window": 592,
+  "n_test_windows": 135,
+  "n_feasible_windows": 133,
+  "peak_cap_rps": 2000.0
+}

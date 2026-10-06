@@ -1,0 +1,12 @@
+{
+  "lstm": {
+    "seconds": 27.3,
+    "best_val_loss": 0.19774097204208374,
+    "best_epoch": 30
+  },
+  "gru": {
+    "seconds": 42.0,
+    "best_val_loss": 0.19716694951057434,
+    "best_epoch": 37
+  }
+}

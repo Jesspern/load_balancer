@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+backup_before_work.zip
+.claude/settings.local.json
+results/cache/
+forecast/*.pt
+data/
